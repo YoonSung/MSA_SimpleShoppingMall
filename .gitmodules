@@ -1,3 +1,6 @@
 [submodule "MSA_SimpleShoppingMall_Yoonsung"]
 	path = MSA_SimpleShoppingMall_Yoonsung
 	url = https://github.com/YoonSung/MSA_SimpleShoppingMall_Yoonsung.git
+[submodule "ShoppingBasketServer"]
+	path = ShoppingBasketServer
+	url = https://github.com/HasunJung/ShoppingBasketServer.git
